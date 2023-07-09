@@ -22,4 +22,4 @@ WHERE first_name = 'Mary';
 
 SELECT *
 FROM film
-WHERE NOT length > 50 AND (rental_rate = 2.99 OR rental_rate = 4.99);
+WHERE NOT (rental_rate = 2.99 OR rental_rate = 4.99) AND (length <= 50);
