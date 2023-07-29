@@ -1,5 +1,18 @@
 ## Patika SQL Projects
 This repository is prepared to host SQL practice projects.
+### Some Specific Topics in terms of Queries:
+- WHERE and Logical & Comparison Operators
+- BETWEEN & IN
+- LIKE & ILIKE
+- DISTINCT & COUNT
+- ORDER BY, LIMIT & OFFSET
+- Aggregate Functions
+- GROUP BY, HAVING, ALIAS
+- PRIMARY & FOREIGN KEY
+- NOT NULL & ALTER
+- UNIQUE, CHECK
+- JOIN Structures
+- Subqueries
 ```sql
 -- Example SQL code block
 CREATE TABLE employee (
@@ -27,7 +40,8 @@ WHERE email IS null;
 SELECT * FROM employee
 WHERE email = 'not available';
 ```
-![postgresql-code](https://github.com/sudeatesoglu2/patika_SQL/assets/106230756/f9c22546-1315-4d43-b310-d22d22e696b8)
+![postgresql-table](https://github.com/sudeatesoglu2/patika_SQL/assets/106230756/f9c22546-1315-4d43-b310-d22d22e696b8)
 
 ---
-[patika.dev-profile](https://app.patika.dev/sudeatesoglu)
+[patika.dev link](https://www.patika.dev/) <br>
+[patika.dev profile](https://app.patika.dev/sudeatesoglu)
